@@ -1,0 +1,10 @@
+# XAMPP / Local Server files
+.DS_Store
+Thumbs.db
+
+# Leads data (optional to ignore if you want to keep repo clean)
+# leads.json
+
+# Temporary files
+*.tmp
+*.log
